@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-aws.txt
-=======
 line 1 of aws.txt
->>>>>>> 068f99a04e9a39f7301310d0ceff36417bfd7b27
